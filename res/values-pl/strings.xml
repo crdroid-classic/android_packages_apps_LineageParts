@@ -34,7 +34,7 @@
     <string name="yes">Tak</string>
     <string name="no">Nie</string>
     <string name="search">Szukaj</string>
-    <string name="disabled">Wyłączone</string>
+    <string name="disabled">Wyłączono</string>
     <string name="enabled">Włączono</string>
     <string name="privacy_settings_title">Prywatność</string>
     <string name="edit_light_settings">Edytuj ustawienia diody</string>
@@ -131,7 +131,7 @@
     <string name="adj_contrast_title">Kontrast</string>
     <string name="button_pref_title">Przyciski</string>
     <string name="hardware_keys_power_key_title">Przycisk zasilania</string>
-    <string name="hardware_keys_home_key_title">Przycisk Home</string>
+    <string name="hardware_keys_home_key_title">Przycisk \"Ekran główny\"</string>
     <string name="hardware_keys_back_key_title">Przycisk wstecz</string>
     <string name="hardware_keys_menu_key_title">Przycisk menu</string>
     <string name="hardware_keys_assist_key_title">Przycisk szukaj</string>
@@ -171,7 +171,7 @@
     <string name="volume_answer_call_title">Odbierz połączenie</string>
     <string name="volume_answer_call_summary">Odbieranie połączeń przychodzących za pomocą przycisków głośności</string>
     <string name="home_answer_call_title">Odbierz połączenie</string>
-    <string name="home_answer_call_summary">Odbieraj połączenia przychodzące za pomocą przycisku Home</string>
+    <string name="home_answer_call_summary">Odbieraj połączenia przychodzące za pomocą przycisku \"Ekranu głównego\"</string>
     <string name="extras_title">Dodatki</string>
     <string name="additional_buttons_title">Dodatkowe przyciski</string>
     <string name="button_backlight_title">Podświetlenie</string>
@@ -421,7 +421,7 @@
     <string name="touchscreen_gestures_haptic_feedback_summary">Wibruj po wykryciu gestu ekranu dotykowego</string>
     <string name="touchscreen_gesture_two_finger_down_swipe_title">Przesuń dwoma palcami w dół</string>
     <string name="touchscreen_gesture_one_finger_up_swipe_title">Przesuń palcem w górę</string>
-    <string name="touchscreen_gesture_one_finger_up_swipe_home_title">Przesuń w górę od przycisku home</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_home_title">Przesuń w górę od przycisku \"Ekran główny\"</string>
     <string name="touchscreen_gesture_one_finger_down_swipe_title">Przesuń palcem w dół</string>
     <string name="touchscreen_gesture_one_finger_left_swipe_title">Przesuń palcem w lewo</string>
     <string name="touchscreen_gesture_one_finger_right_swipe_title">Przesuń palcem w prawo</string>
