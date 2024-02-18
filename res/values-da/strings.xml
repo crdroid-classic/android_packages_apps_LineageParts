@@ -175,6 +175,7 @@
     <string name="home_answer_call_summary">Besvar indgående opkald, ved at trykke på hjem-knappen</string>
     <string name="extras_title">Ekstrafunktioner</string>
     <string name="additional_buttons_title">Yderligere knapper</string>
+    <string name="click_partial_screenshot_title">Klik for delvist skærmbillede</string>
     <string name="button_backlight_title">Bagbelysning</string>
     <string name="button_backlight_enabled">Oplys knapper</string>
     <string name="button_backlight_only_when_pressed_title">Oplys kun knapper ved tryk</string>
